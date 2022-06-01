@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+
+img:hover {
+  background-color: gold;
+}
+
+
+
+/*******************************************CLASS SELECTORS*******************************************/
+
+.emoji {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%
+}
